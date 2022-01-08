@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5,
+    "nombre": "Lemon",
+    "departamento": "a",
+    "telefono": "a",
+    "correo": "a",
+    "ubicacion": "a"
+  },
+  {
+    "id": 6,
+    "nombre": "hola",
+    "departamento": "a",
+    "telefono": "123",
+    "correo": "a",
+    "ubicacion": "tres"
+  },
+  {
+    "id": 7,
+    "nombre": "Carlos",
+    "departamento": "a",
+    "telefono": "a",
+    "correo": "a",
+    "ubicacion": "a"
+  },
+  {
+    "id": 8,
+    "nombre": "Alberto",
+    "departamento": "a",
+    "telefono": "a",
+    "correo": "a",
+    "ubicacion": "a"
+  }
+]

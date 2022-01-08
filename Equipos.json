@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "tipo": "portatil", 
+    "marca": "HP",
+    "tipoDeUso": "Ventas",
+    "versionSO": "10.15",
+    "nombreSO": "mac",
+    "procesador": "Intel i5",
+    "ram": 16,
+    "valocidadRam": 800,
+    "tipoDiscoDuro": "HDD",
+    "capacidadDiscoDuro": 6,
+    "diagonalPantalla": 40,
+    "resolucionPantalla": "4K",
+    "nombreSoftwarePago": "MATlab",
+    "versionSoftwarePago": "9.11",
+    "tipoSoftwarePago": "Cleve Moler",
+    "nombreSoftwareLibre": "Eclipse",
+    "versionSoftwareLibre": "IDE 2021-09"
+  },
+  {
+    "id": 1,
+    "tipo": "sobremesa", 
+    "marca": "Acer",
+    "tipoDeUso": "RRHH",
+    "versionSO": "2022",
+    "nombreSO": "Windows",
+    "procesador": "Intel i7",
+    "ram": 32,
+    "valocidadRam": 1000,
+    "tipoDiscoDuro": "HDD",
+    "capacidadDiscoDuro": 125,
+    "diagonalPantalla": 23,
+    "resolucionPantalla": "1920x1080",
+    "nombreSoftwarePago": "MATlab",
+    "versionSoftwarePago": "9.11",
+    "tipoSoftwarePago": "Cleve Moler",
+    "nombreSoftwareLibre": "Apache",
+    "versionSoftwareLibre": "2.4"
+  }
+]
